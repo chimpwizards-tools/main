@@ -1,0 +1,9 @@
+name: tools
+organization: git@github.com:chimpwizards-tools
+dependencies:
+  - path: vscode
+    git: git@github.com:chimpwizards-tools/vscode.git
+    tags:
+      - ide
+      - tools      
+    
